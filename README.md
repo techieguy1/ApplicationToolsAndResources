@@ -4,6 +4,7 @@
 1. [Servers Ultimate](https://play.google.com/store/apps/details?id=com.icecoldapps.serversultimate): Turn your Android phone into a server. 
 
 ## WinOs Only Apps
+1. [WinSCP](https://winscp.net/eng/index.php): Transfer files securely.
 
 ## MacOs Only Apps
 
