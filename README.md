@@ -3,14 +3,14 @@
 ## Android Apps
 1. [Servers Ultimate](https://play.google.com/store/apps/details?id=com.icecoldapps.serversultimate): Turn your Android phone into a server. 
 
-## WinOs Only Apps
+## Win O/S Only Apps
 1. [WinSCP](https://winscp.net/eng/index.php): Transfer files securely.
 
-## MacOs Only Apps
+## Mac O/S Only Apps
 1. [brew](https://brew.sh/): This is **the** package manager for Mac. It should have been standard on all Macs.
 1. [MacPorts](https://www.macports.org/): This is another package manager that's pretty good.
 
-## Linux Only Apps
+## Linux O/S Only Apps
 1. [FVWM](https://www.fvwm.org/): A Linux window manager. Super configurable and flexible, but it's not for the faint of heart. Old school Linux users know what I'm talking about.
 1. [Terminator](https://launchpad.net/terminator): My go-to terminal emulator. Part of many Linux distributions.
 1. [Wine](https://www.winehq.org/): Windows emulator. Not perfect but has come a long way since inception in 1993.
