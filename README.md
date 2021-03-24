@@ -7,7 +7,7 @@
 1. [WinSCP](https://winscp.net/eng/index.php): Transfer files securely.
 
 ## Mac O/S Only Apps
-1. [brew](https://brew.sh/): This is **the** package manager for Mac. It should have been standard on all Macs.
+1. [brew](https://brew.sh/): This is **the** package manager for Mac. It should have been standard.
 1. [MacPorts](https://www.macports.org/): This is another package manager that's pretty good.
 
 ## Linux O/S Only Apps
