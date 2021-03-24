@@ -15,7 +15,7 @@
 1. [Terminator](https://launchpad.net/terminator): My go-to terminal emulator. Part of many Linux distributions.
 1. [Wine](https://www.winehq.org/): Windows emulator. Not perfect but has come a long way since inception in 1993.
 
-## Any OS Apps
+## Any Desktop OS Apps
 1. [FileZilla](https://filezilla-project.org/): File transfer application for any O/S.
 1. [Keycloak - IAM](https://www.keycloak.org/index.html): Open source identity and access management tool.
 1. [LibreOffice](https://www.libreoffice.org/): This is a very nice MS Office "clone". It can read and write most MS Office extensions. Though not perfect, it's my go-to office product in Linux and Mac.
