@@ -1,43 +1,51 @@
 # Application Tools and Resources
 
-Pros and cons of desktop/laptop operating systems.
+Pros and cons of desktop/laptop operating systems. This is my opinion based on experience. Yours may be different.
 
-### MacOS
+### Mac O/S
 ##### Pros
 * Meant for people who know little to nothing about computers.
 * Easy to use.
 * Eye candy.
 * Has *the best* user experience.
-* Standard applications and UI.
+* Has only one standard UI.
 * Excellent for graphic artists.
 ##### Cons
-* Next to impossible to upgrade any hardware on the laptop.
+* Next to impossible to upgrade any hardware (laptop).
 * Nearly everything is proprietary.
-* Very high costs.
+* O/S and hardware are highly coupled (laptop).
 * Next to impossible to run in a virtual environment.
+* Unless applications are from Gnu, many applications have costs.
 
-### Windows
+### Windows O/S
 ##### Pros
 * Meant for people who know little to nothing about computers.
 * Fairly easy to use.
 * Eye candy.
 * Customizable.
-* Huge repository of applications from programming to writing to system administration.
+* Huge repository of applications from programming to writing to system administration where many are free.
 * Can be run in a virtual environment.
 ##### Cons
 * Virus and malware prone.
 * Stability issues.
+* There are many versions of the O/S with some being very costly.
+* Administration can be challenging for newbies.
 
-### Linux
+### Linux O/S
 ##### Pros
 * Stability.
-* Very highly extensible and customimable UI and many to choose from.
+* Very highly extensible and customizable UI and many window managers to choose from.
+* Huge selection of Linux distributions to choose from.
 * Very highly configurable.
 * Can be run in a virtual environment.
+* Nearly all Linux distributions are free.
 ##### Cons
 * Not for beginners.
 * UI is not as polished as Apple or Windows.
 * Applications ported from Windows or Apples to Linux sometimes have stability issues.
+* Too many distributions to choose from which can be overwhelming to newbies.
+* Command line has huge learning curve.
+* System administration can be challenging for newbiews.
 
 ## Android Apps
 1. [Servers Ultimate](https://play.google.com/store/apps/details?id=com.icecoldapps.serversultimate): Turn your Android phone into a server. 
