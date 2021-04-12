@@ -1,16 +1,43 @@
 # Application Tools and Resources
 
-Pros and cons of desktop/laptop operating systems
+Pros and cons of desktop/laptop operating systems.
 
 ### MacOS
 ##### Pros
 * Meant for people who know little to nothing about computers.
 * Easy to use.
 * Eye candy.
+* Has *the best* user experience.
+* Standard applications and UI.
+* Excellent for graphic artists.
 ##### Cons
 * Next to impossible to upgrade any hardware on the laptop.
 * Nearly everything is proprietary.
 * Very high costs.
+* Next to impossible to run in a virtual environment.
+
+### Windows
+##### Pros
+* Meant for people who know little to nothing about computers.
+* Fairly easy to use.
+* Eye candy.
+* Customizable.
+* Huge repository of applications from programming to writing to system administration.
+* Can be run in a virtual environment.
+##### Cons
+* Virus and malware prone.
+* Stability issues.
+
+### Linux
+##### Pros
+* Stability.
+* Very highly extensible and customimable UI and many to choose from.
+* Very highly configurable.
+* Can be run in a virtual environment.
+##### Cons
+* Not for beginners.
+* UI is not as polished as Apple or Windows.
+* Applications ported from Windows or Apples to Linux sometimes have stability issues.
 
 ## Android Apps
 1. [Servers Ultimate](https://play.google.com/store/apps/details?id=com.icecoldapps.serversultimate): Turn your Android phone into a server. 
