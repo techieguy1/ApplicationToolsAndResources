@@ -65,7 +65,7 @@ Pros and cons of desktop/laptop operating systems. This is my opinion based on e
 1. [Terminator](https://launchpad.net/terminator): My go-to terminal emulator. Part of many Linux distributions.
 1. [Wine](https://www.winehq.org/): Windows emulator. Not perfect but has come a long way since inception in 1993.
 
-## Any Desktop OS Apps
+## Any Desktop O/S Apps
 1. [Arduino](https://www.arduino.cc/en/software/): An integrated development environment for the Arduino IC boards. It uses C-like syntax to program the board. The Arduino IC boards are used in IoT and students and amateurs who want to learn how to do embedded coding.
 2. [Chrome](https://www.google.com/chrome/): A web browser from Google. It is very highly extensible with a huge plugin library.
 3. [Eclipse](https://www.eclipse.org/downloads/): An integrated development environment for developers. It can do Java, JavaEE, C/C++, Python, and a bunch of other programming langauges. It is highly extensible and well supported.
