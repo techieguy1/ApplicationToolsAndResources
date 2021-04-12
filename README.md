@@ -2,15 +2,15 @@
 
 Pros and cons of desktop/laptop operating systems
 
-#### MacOS
-* Pros
-** Meant for people who know little to nothing about computers.
-** Easy to use.
-** Eye candy.
-* Cons
-** Next to impossible to upgrade any hardware on the laptop.
-** Nearly everything is proprietary.
-** Very high costs.
+### MacOS
+##### Pros
+* Meant for people who know little to nothing about computers.
+* Easy to use.
+* Eye candy.
+##### Cons
+* Next to impossible to upgrade any hardware on the laptop.
+* Nearly everything is proprietary.
+* Very high costs.
 
 ## Android Apps
 1. [Servers Ultimate](https://play.google.com/store/apps/details?id=com.icecoldapps.serversultimate): Turn your Android phone into a server. 
