@@ -9,6 +9,9 @@
 ## Mac O/S Only Apps
 1. [brew](https://brew.sh/): This is **the** package manager for Mac. It should have been included as part of Apple's O/S distribution.
 1. [MacPorts](https://www.macports.org/): This is another package manager that's pretty good.
+1. [NTFS for Mac](https://www.paragon-software.com/us/home/ntfs-mac/): A non-free program for reading and writing NTFS filesystems by Microsoft. Very easy to use and the cost is very reasonable.
+1. [Parallels](https://www.parallels.com): Virtualization software made specifically for Macs. It's fairly simple to use and comparable in functionality to VMWare Fusion. There's a home version and a pro version. Both are reasonably priced in my opinion. 
+1. [Scrivener](https://www.literatureandlatte.com/scrivener/overview): This is a really nice application for writing. It's mainly used for writing books, manuscripts, and plays, but I've been using it as a wiki because of the way I can categorize topics. It's not free, but it's not expensive, either. The cost is worth it. The only con I have is that it has a bit of a learning curve.
 
 ## Linux O/S Only Apps
 1. [FVWM](https://www.fvwm.org/): A Linux window manager. Super configurable and flexible, but it's not for the faint of heart. Old school Linux users know what I'm talking about.
