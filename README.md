@@ -18,6 +18,7 @@
 1. [FVWM](https://www.fvwm.org/): A Linux window manager. Super configurable and flexible, but it's not for the faint of heart. Old school Linux users know what I'm talking about.
 1. [Terminator](https://launchpad.net/terminator): My go-to terminal emulator. Part of many Linux distributions.
 1. [Wine](https://www.winehq.org/): Windows emulator. Not perfect but has come a long way since inception in 1993.
+1. [xv](https://github.com/haegar/xv): This is a classic image viewer that has been around since about 1989. I've been using it since 1995 on various 'nix systems. It's free for personal use only. Some Linux systems have it as part of their distribution. Others, you need to use snap. Or, you can compile it yourself.
 
 ## Any Desktop O/S Apps
 1. [Arduino](https://www.arduino.cc/en/software/): An integrated development environment for the Arduino IC boards. It uses C-like syntax to program the board. The Arduino IC boards are used in IoT and students and amateurs who want to learn how to do embedded coding.
