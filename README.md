@@ -5,6 +5,7 @@
 
 ## Win O/S Only Apps
 1. [WinSCP](https://winscp.net/eng/index.php): Transfer files securely.
+1. [Scrivener](https://www.literatureandlatte.com/scrivener/overview): This is the Windows port of Scrivener that was originally written for Mac. See info, below, under Max O/S.
 
 ## Mac O/S Only Apps
 1. [brew](https://brew.sh/): This is **the** package manager for Mac. It should have been included as part of Apple's O/S distribution.
