@@ -22,10 +22,11 @@
 
 ## Any Desktop O/S Apps
 1. [Arduino](https://www.arduino.cc/en/software/): An integrated development environment for the Arduino IC boards. It uses C-like syntax to program the board. The Arduino IC boards are used in IoT and students and amateurs who want to learn how to do embedded coding.
-2. [Chrome](https://www.google.com/chrome/): A web browser from Google. It is very highly extensible with a huge plugin library.
-3. [Eclipse](https://www.eclipse.org/downloads/): An integrated development environment for developers. It can do Java, JavaEE, C/C++, Python, and a bunch of other programming langauges. It is highly extensible and well supported.
+1. [Chrome](https://www.google.com/chrome/): A web browser from Google. It is very highly extensible with a huge plugin library.
+1. [Eclipse](https://www.eclipse.org/downloads/): An integrated development environment for developers. It can do Java, JavaEE, C/C++, Python, and a bunch of other programming langauges. It is highly extensible and well supported.
 4. [FileZilla](https://filezilla-project.org/): File transfer application for any O/S.
-5. [Firefox](https://www.mozilla.org/en-US/): A very good, solid (usually) web browser that's been around for decades.
-6. [Keycloak - IAM](https://www.keycloak.org/index.html): Open source identity and access management tool.
-7. [LibreOffice](https://www.libreoffice.org/): This is a very nice MS Office "clone". It can read and write most MS Office extensions. Though not perfect, it's my go-to office product in Linux and Mac.
-8. [Thunderbird](https://www.thunderbird.net/en-US/): This is an excellent email client that has a nice setup wizard that can handle types like pop3 and imap. I've been using Thunderbird for more than 10 years.
+1. [Firefox](https://www.mozilla.org/en-US/): A very good, solid (usually) web browser that's been around for decades.
+1. [keepass](https://keepass.info/): This is a no nonesense password safe. It's not elegant, you can't save anything to the cloud (unless you build your own), and it has ported code for the major operating systems and mobile devices. There are numerous plugins to make keepass even more robust to suit your needs. My favorite plugin is the one for Firefox which uses keepass to access user IDs and passwords for the websites I go to like my bank.
+1. [Keycloak - IAM](https://www.keycloak.org/index.html): Open source identity and access management tool.
+1. [LibreOffice](https://www.libreoffice.org/): This is a very nice MS Office "clone". It can read and write most MS Office extensions. Though not perfect, it's my go-to office product in Linux and Mac.
+1. [Thunderbird](https://www.thunderbird.net/en-US/): This is an excellent email client that has a nice setup wizard that can handle types like pop3 and imap. I've been using Thunderbird for more than 10 years.
