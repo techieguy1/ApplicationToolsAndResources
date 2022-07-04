@@ -50,7 +50,7 @@ Pros and cons of desktop/laptop operating systems. This is my opinion based on e
 * High learning curve, in general.
 * Command line has huge learning curve.
 * UI is not as polished as Apple or Windows.
-* Applications ported from Windows or Apples to Linux sometimes have stability issues.
+* Applications ported from Windows or Apple to Linux sometimes have stability issues.
 * Some window managers can and does have stability issues.
 * Too many distributions to choose from which can be overwhelming to newbies.
-* System administration can be challenging for newbiews.
+* System administration can be challenging for newbies.
