@@ -27,7 +27,7 @@
 1. [Eclipse](https://www.eclipse.org/downloads/): An integrated development environment for developers. It can do Java, JavaEE, C/C++, Python, and a bunch of other programming langauges. It is highly extensible and well supported.
 1. [FileZilla](https://filezilla-project.org/): File transfer application for any O/S.
 1. [Firefox](https://www.mozilla.org/en-US/): A very good, solid (usually) web browser that's been around for decades.
-1. [keepass](https://keepass.info/): This is a no nonesense password safe. It's not elegant, you can't save anything to the cloud (unless you build your own), and it has ported code for the major operating systems and mobile devices. There are numerous plugins to make keepass even more robust to suit your needs. My favorite plugin is the one for Firefox which uses keepass to access user IDs and passwords for the websites I go to like my bank.
+1. [keepass](https://keepass.info/): This is a no-nonsense password safe. It's not elegant, you can't save anything to the cloud (unless you build your own), and it has ported code for the major operating systems and mobile devices. There are numerous plugins to make keepass even more robust to suit your needs. My favorite plugin is the one for Firefox which uses keepass to access user IDs and passwords for the websites I go to like my bank.
 1. [Keycloak - IAM](https://www.keycloak.org/index.html): Open source identity and access management tool.
 1. [LibreOffice](https://www.libreoffice.org/): This is a very nice MS Office "clone". It can read and write most MS Office extensions. Though not perfect, it's my go-to office product in Linux and Mac.
 1. [Obsidian](https://obsidian.md/): Awesome notetaking app which is done in pure markdown language.
