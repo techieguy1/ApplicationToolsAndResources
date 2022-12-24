@@ -15,7 +15,6 @@
 1. [Scrivener](https://www.literatureandlatte.com/scrivener/overview): This is a really nice application for writing. It's mainly used for writing books, manuscripts, and plays, but I've been using it as a wiki because of the way I can categorize topics. It's not free, but it's not expensive, either. The cost is worth it. It is *not* a word processor like MS Word. So, bear that in mind. The only con I have is that it has a bit of a learning curve.
 
 ## Linux O/S Only Apps
-1. [Calibre](https://calibre-ebook.com/): This is a nice e-book reader that can handle many different formats such as pdf, mobi, epub, etc.
 1. [FVWM](https://www.fvwm.org/): A Linux window manager. Super configurable and flexible, but it's not for the faint of heart. Old school Linux users know what I'm talking about.
 1. [Terminator](https://launchpad.net/terminator): My go-to terminal emulator. Part of many Linux distributions.
 1. [Wine](https://www.winehq.org/): Windows emulator. Not perfect but has come a long way since inception in 1993.
@@ -23,6 +22,7 @@
 
 ## Any Desktop O/S Apps
 1. [Arduino](https://www.arduino.cc/en/software/): An integrated development environment for the Arduino IC boards. It uses C-like syntax to program the board. The Arduino IC boards are used in IoT and students and amateurs who want to learn how to do embedded coding.
+1. [Calibre](https://calibre-ebook.com/): This is a nice e-book reader that can handle many different formats such as pdf, mobi, epub, etc.
 1. [Chrome](https://www.google.com/chrome/): A web browser from Google. It is very highly extensible with a huge plugin library.
 1. [Eclipse](https://www.eclipse.org/downloads/): An integrated development environment for developers. It can do Java, JavaEE, C/C++, Python, and a bunch of other programming langauges. It is highly extensible and well supported.
 1. [FileZilla](https://filezilla-project.org/): File transfer application for any O/S.
