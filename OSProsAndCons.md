@@ -2,7 +2,7 @@
 
 Pros and cons of desktop/laptop operating systems. This is my opinion based on experience. Yours may be different.
 
-**Pet peeve**: For example, many people think Ubuntu is an O/S. It is not. Linux is an O/S. Ubuntu, debian, fedora, Suse, etc. are distributions of the Linux O/S.
+**Pet peeve**: Many people think Ubuntu is an O/S. It is not. Linux is an O/S. Ubuntu, Debian, Fedora, Suse, RedHat, etc. are distributions of the Linux O/S.
 
 ## Mac O/S
 #### Pros
