@@ -4,6 +4,11 @@
 1. [Servers Ultimate](https://play.google.com/store/apps/details?id=com.icecoldapps.serversultimate): Turn your Android phone into a server. 
 
 ## Win O/S Only Apps
+1. [Irfanview](https://www.irfanview.com/): This is by far one of the most fantastic that many people have never heard of. And it's been around for almost two decades, and that is about how long I have been using this software. It's a powerful image viewer and editor but can also play different video formats. By downloading the plugins, it has even more formats it can support. If you do use this, make sure you donate.
+1. [MobaXterm](https://mobaxterm.mobatek.net/): This is PuTTY on steroids. It's a tabbed SSH client and can also act as an X-server. The free version is limited, but the paid version is worth the cost.
+1. [Notepad++](https://notepad-plus-plus.org/): Don't like notepad.exe? Then Notepad++ is the answer. Hands down, it's the best text editor out there that's 100% free (and better than some paid versions). It has a huge plugins repository that extends the functionality of Notepad++, like markdown viewer, JSON viewer/formatter, XML viewer/formatter, etc. You can also use Notepad++ as an IDE for numerous languages.
+1. [One Commander](https://onecommander.com/): One Commander is a Windows Explorer alternative. I've been using it for a few years now, and it's been fantastic. You can have two explorer panes opened and can drag and drop files between the two (as opposed to opening two Windows Explorer applications which can get cumbersome). The free version is feature rich for most people. I am using the paid version which is cheap and has some extra features.
+1. [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html): A simple and very easy to use SSH client. It's 100% free.
 1. [WinSCP](https://winscp.net/eng/index.php): Transfer files securely.
 1. [Scrivener](https://www.literatureandlatte.com/scrivener/overview): This is the Windows port of Scrivener that was originally written for Mac. See info, below, under Mac O/S.
 
@@ -31,6 +36,7 @@
 1. [Keycloak - IAM](https://www.keycloak.org/index.html): Open source identity and access management tool.
 1. [LibreOffice](https://www.libreoffice.org/): This is a very nice MS Office "clone". It can read and write most MS Office extensions. Though not perfect, it's my go-to office product in Linux and Mac.
 1. [Obsidian](https://obsidian.md/): Awesome notetaking app which is done in pure markdown language.
+2. [pgAdmin](https://www.pgadmin.org/): GUI-based application to run queries and/or do DBA work for a PostgreSQL database.
 1. [Postman](https://www.postman.com/): From their site, "Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster." **NOTE**: Postman is little flaky on some Linux distributions like Fedora.
 1. [Pro Writing Aid](https://prowritingaid.com/): A very nice grammar and spelling aid that works directly with Scrivener. Windows and Mac users can download desktop apps. Linux users can use the web interface either pasting text into it or writing directly in it. Either, there will be a lot of copying and pasting. 
 1. [synergy](https://symless.com/synergy): This is a software-based KVM that works in Windows, Linux, and MacOS. The software-based KVM uses one mouse and one keyboard across many computers of different operating systems. It will even work on a Raspberry Pi. You have to pay for this, but it's worth it. It's a one-time cost, and you get unlimited software updates. I've been using this software for years.
